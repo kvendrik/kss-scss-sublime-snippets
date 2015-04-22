@@ -3,8 +3,8 @@
 <content>
 // ${1:[heading]}
 //
-// ${2:[status]}: ${3:[description]}
+// ${2:[description]}
 //
-// Styleguide ${4:[chapter number]}
+// Styleguide ${3:[chapter number]}
 </content>
 </snippet>
