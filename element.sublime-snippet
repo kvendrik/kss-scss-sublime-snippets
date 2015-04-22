@@ -1,5 +1,5 @@
 <snippet>
-<tabTrigger>kss:e</tabTrigger>
+<tabTrigger>kss-e</tabTrigger>
 <content>
 // ${1:[heading]}
 //
