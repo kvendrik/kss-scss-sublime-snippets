@@ -1,0 +1,10 @@
+<snippet>
+<tabTrigger>kss:h</tabTrigger>
+<content>
+// ${1:[heading]}
+//
+// ${2:[status]}: ${3:[description]}
+//
+// Styleguide ${4:[chapter number]}
+</content>
+</snippet>

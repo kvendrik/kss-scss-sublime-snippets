@@ -1,0 +1,10 @@
+<snippet>
+<tabTrigger>kss:m</tabTrigger>
+<content>
+// ${1:[heading]}
+//
+// ${2:[first arg]} - ${3:[first arg description]}
+//
+// Compatible in ${4:[compatibility notes]}
+</content>
+</snippet>

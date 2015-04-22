@@ -1,0 +1,13 @@
+<snippet>
+<tabTrigger>kss:e</tabTrigger>
+<content>
+// ${1:[heading]}
+//
+// ${2:[first modifier]} - ${3:[first modifier description]}
+//
+// markup:
+// ${4:[markup (modifiers can be used using {$modifiers})]}
+//
+// Styleguide ${5:[chapter number]}
+</content>
+</snippet>
