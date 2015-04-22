@@ -6,7 +6,7 @@
 // ${2:[first modifier]} - ${3:[first modifier description]}
 //
 // markup:
-// ${4:[markup (modifiers can be used using {$modifiers})]}
+// ${4:[markup]}
 //
 // Styleguide ${5:[chapter number]}
 </content>
